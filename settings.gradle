@@ -1,0 +1,2 @@
+include ':app', ':gola'
+rootProject.name='javalib'
